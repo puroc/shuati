@@ -1,4 +1,4 @@
-package com.example.shuati.niukewang.offer;
+package jianzhioffer;
 
 import org.junit.Test;
 
